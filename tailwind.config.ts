@@ -22,7 +22,15 @@ const config: Config = {
         RubikRegular: ['RubikRegular', 'sans-serif'],
         RubikSemiBold: ['RubikSemiBold', 'sans-serif'],
       },
-      colors: {
+      colors: {},
+      screens: {
+        xs: '380px',
+        sm: '540px',
+        md: '720px',
+        lg: '920px',
+        xl: '1040px',
+        '2xl': '1280px',
+        '3xl': '1536px',
       },
     },
   },
