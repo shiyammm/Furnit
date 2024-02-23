@@ -11,7 +11,7 @@ const Hero = () => {
         Various new collections of furniture to decorate the corner of your
         house.
       </h1>
-      <button className="text-[20px] font-RubikBold font-bold bg-zinc-800 px-5 py-4 text-white">
+      <button className="text-[20px] font-RubikBold font-bold bg-zinc-800 w-[14rem] h-[3.5rem] text-white ">
         Shop Now
       </button>
       <div>
