@@ -14,12 +14,12 @@ const Hero = () => {
       <button className="text-[20px] font-RubikBold font-bold bg-zinc-800 w-[14rem] h-[3.5rem] text-white ">
         Shop Now
       </button>
-      <div>
+      <div className='mx-auto' >
         <Image
           src="/../assets/images/HeroFurniture.png"
           alt="HeroFurniture"
-          width={500}
-          height={500}
+          width={700}
+          height={700}
         ></Image>
       </div>
     </section>
