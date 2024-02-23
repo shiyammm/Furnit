@@ -31,10 +31,10 @@ const Subscribe = () => {
       </form>
       <Image
         src="/../assets/images/twoChairs.png"
-        width={400}
-        height={400}
+        width={500}
+        height={500}
         alt="chairs"
-        className="object-cover"
+        className="object-cover mx-auto"
       ></Image>
     </section>
   );
