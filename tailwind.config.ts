@@ -22,6 +22,8 @@ const config: Config = {
         RubikRegular: ['RubikRegular', 'sans-serif'],
         RubikSemiBold: ['RubikSemiBold', 'sans-serif'],
       },
+      colors: {
+      },
     },
   },
   plugins: [],
