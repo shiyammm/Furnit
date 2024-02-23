@@ -23,9 +23,7 @@ const NewestProducts = () => {
               </span>
               <Image
                 src={product.img}
-                className="w-full h-96 object-cover"
-                width={100}
-                height={100}
+                className="w-full h-96 object-cover object-center sm:object-[0%_30%]"
                 alt="teak_wood"
               ></Image>
             </div>

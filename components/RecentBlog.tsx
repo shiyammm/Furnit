@@ -17,8 +17,6 @@ const RecentBlog = () => {
           <div key={blog.body}>
             <Image
               alt="furniture"
-              width={400}
-              height={400}
               className="object-cover mt-9"
               src={blog.img}
             ></Image>

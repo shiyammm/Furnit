@@ -20,8 +20,6 @@ const NewArrival = () => {
             <Image
               src={newArrival.img}
               className="w-full h-96 object-cover"
-              width={100}
-              height={100}
               alt="teak_wood"
             ></Image>
           </div>
